@@ -11,7 +11,8 @@ for(int k=0;k<3;k++)
 c[i][j]+=a[i][k]*b[k][j];      
 }  
 System.out.print(c[i][j]+" ");   
-}   
+}  
+System.out.println();
 }    
 }
 }
